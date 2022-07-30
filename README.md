@@ -2,4 +2,6 @@
 
 Tic Tak Toe Basic Game in JS
 
-Project URL: https://ashupanwar10.github.io/tic-tak-toe.github.io/
+<div>
+<a href="https://ashupanwar10.github.io/tic-tak-toe.github.io/" target="_blank">Tic Tak Toe Game</a>
+</div>
