@@ -63,3 +63,15 @@ body {
   border-right: 1px solid #006d77;
   margin-top: 0.5rem;
 }
+
+.success {
+  display: block;
+  color: #006d77;
+  padding-bottom: 1rem;
+}
+
+.error {
+  display: block;
+  color: #e63946;
+  padding-bottom: 1rem;
+}

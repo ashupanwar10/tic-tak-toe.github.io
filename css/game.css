@@ -1,7 +1,7 @@
 #active-game {
   text-align: center;
   margin: 2rem 0 5rem 0;
-  /* display: none; */
+  display: none;
 }
 
 #game-over {
@@ -45,7 +45,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  font-size: 3.5rem;
+  font-size: 4.5rem;
   font-weight: bold;
 }
 
